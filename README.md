@@ -8,3 +8,7 @@ CLI number guessing game.
   less than the generated number
 - when user guesses correct number,  
   show them the amount of guesses it took
+
+## License
+If this repository is public, then
+it is licensed with the [MIT License](./LICENSE).
