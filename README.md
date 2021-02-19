@@ -1,6 +1,11 @@
 # Dread Code #0 - Number Guessing Game
 CLI number guessing game.
 
+## Usage
+```
+cargo run
+```
+
 ## Requirements
 - generate random number
 - compare user input to generated number
