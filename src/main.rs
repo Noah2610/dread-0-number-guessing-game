@@ -38,10 +38,10 @@ fn main() {
                         has_guessed_correct = true;
                     }
                     Ordering::Less => {
-                        println!("Guessed LESS THAN random number!");
+                        println!("Number is LARGER than guessed number!");
                     }
                     Ordering::Greater => {
-                        println!("Guessed GREATER THAN random number!");
+                        println!("Number is LESS than guessed number!");
                     }
                 }
             }
